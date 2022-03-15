@@ -1,1 +1,1 @@
-# DOOP12
+this is instruction manual for project
